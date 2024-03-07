@@ -5,3 +5,4 @@
 	Everything is mine other than the pokemon designs themselves.
 	Pokemon Designs: Intellectual property of "Nintendo Co., Ltd". 
 	Host: University of Victoria
+ 	API: https://pokeapi.co/
