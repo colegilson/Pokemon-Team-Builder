@@ -1,0 +1,32 @@
+
+body {
+	background-image: url("http://i.imgur.com/mqBmy.jpg");
+	background-repeat: repeat;
+	scroll-behavior: smooth;
+}
+
+div {
+	margin: 3px;
+}
+
+#pokemons{
+	width: 100%;
+	border: black 4px solid;
+	border-spacing: 0;
+	align-content: center;
+	width: 99%;
+	margin:5px;
+	background: RGBA(90, 50, 60, 0.85);
+	color: white;
+}
+td{
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	text-transform: uppercase;
+	border: black 2px solid;
+}
+
+tr {
+	height: 96px;
+}
